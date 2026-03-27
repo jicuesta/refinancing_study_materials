@@ -5,7 +5,7 @@ This repository contains the public materials for the project "Information Frict
 ## Contents
 
 - `surveys/`: Survey instruments used in the project. We include the baseline and endline surveys, which collect information on knowledge about refinancing, beliefs about gains from refinancing, knowledge about the mortgage market, and intentions to refinance. 
-- `interventions/`: Informational interventions used in the study. We include the letters submitted to study participants assigned to five experimental groups: awareness, beliefs, switch, search, and full. 
+- `interventions/`: Informational interventions used in the study. We include the letters submitted to study participants assigned to five experimental groups: awareness, beliefs, switch, search, and full. Each of the first four interventions target the respective frictions, whereas the full intervention targets all of them. 
 
 ## Files
 
