@@ -1,10 +1,10 @@
 # Information Frictions in Mortgage Refinancing: Research Materials
 
-This repository contains the public materials for the project "Information Frictions in Mortgage Refinancing", developed by Vivek Bhattacharya (Northwestern University), Jos\'e Ignacio Cuesta (Stanford University), Gast\'on Illanes (Northwestern University), Ana Mar\'ia Montoya (Universidad Adolfo Ibañez), Raimundo Undurraga (University of Chile), and Gabriela Covarrubias (Financial Markets Commission, Chile).
+This repository contains the public materials for the project "Information Frictions in Mortgage Refinancing", developed by Vivek Bhattacharya (Northwestern University), José Ignacio Cuesta (Stanford University), Gastón Illanes (Northwestern University), Ana María Montoya (Universidad Adolfo Ibañez), Raimundo Undurraga (University of Chile), and Gabriela Covarrubias (Financial Markets Commission, Chile).
 
 ## Contents
 
-- `surveys/`: Survey instruments used in the project. We include the baseline and endline surveys, which collect information of knowledge about refinancing, beliefs about gains from refinancing, knowledge about the mortgage market, and intentions to refinance. 
+- `surveys/`: Survey instruments used in the project. We include the baseline and endline surveys, which collect information on knowledge about refinancing, beliefs about gains from refinancing, knowledge about the mortgage market, and intentions to refinance. 
 - `interventions/`: Informational interventions used in the study. We include the letters submitted to study participants assigned to five experimental groups: awareness, beliefs, switch, search, and full. 
 
 ## Files
