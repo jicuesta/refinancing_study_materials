@@ -1,31 +1,32 @@
-# [Project Title]: Research Materials
+# Information Frictions in Mortgage Refinancing: Research Materials
 
 This repository contains the public materials for the project "Information Frictions in Mortgage Refinancing", developed by Vivek Bhattacharya (Northwestern University), Jos\'e Ignacio Cuesta (Stanford University), Gast\'on Illanes (Northwestern University), Ana Mar\'ia Montoya (Universidad Adolfo Ibañez), Raimundo Undurraga (University of Chile), and Gabriela Covarrubias (Financial Markets Commission, Chile).
 
 ## Contents
 
-- `surveys/`: survey instruments used in the project
-- `interventions/`: informational materials and intervention content used in the study
+- `surveys/`: Survey instruments used in the project. We include the baseline and endline surveys, which collect information of knowledge about refinancing, beliefs about gains from refinancing, knowledge about the mortgage market, and intentions to refinance. 
+- `interventions/`: Informational interventions used in the study. We include the letters submitted to study participants assigned to five experimental groups: awareness, beliefs, switch, search, and full. 
 
 ## Files
 
 ### Surveys
-- `baseline_survey_en.pdf`: English baseline survey
-- `endline_survey_en.pdf`: English endline survey
+- `baseline_survey_en.pdf`: Baseline survey in English
+- `endline_survey_en.pdf`: Endline survey in English
+- `baseline_survey_sp.pdf`: Baseline survey in Spanish
+- `endline_survey_sp.pdf`: Endline survey in Spanish
 
 ### Interventions
-- `information_letter.pdf`: informational handout shown to participants
-- `sms_texts.pdf`: text of SMS messages used in the intervention
+- `intervention_all_en.pdf`: Full informational intervention in English
+- `intervention_awareness_es.pdf`: Awareness informational intervention in Spanish
+- `intervention_beliefs_es.pdf`: Beliefs informational intervention in Spanish
+- `intervention_search_es.pdf`: Search informational intervention in Spanish
+- `intervention_switch_es.pdf`: Switch informational intervention in Spanish
+- `intervention_full_es.pdf`: Full informational intervention in Spanish
 
 ## Notes
 
-These materials are shared for research transparency and reuse.  
-Please cite the associated paper or project when using or adapting them.
+These materials are shared for research transparency and broader usage. Please cite the associated paper or project when using or adapting them.
 
 ## Citation
 
-Add a preferred citation here once available.
-
-## Contact
-
-[Your name / email / project webpage]
+Bhattacharya, Vivek, José Ignacio Cuesta, Gastón Illanes, Ana María Montoya, Raimundo Undurraga and Gabriela Covarrubias (2026). Information Frictions in Mortgage Refinancing, Working Paper.
